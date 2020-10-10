@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Eliza site
 
 You can use the [editor on GitHub](https://github.com/fmakoo/Webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Health
+Sports & Fitness
+Travel & Events
+Society Support
+Products/Fashion
+Modelling
 
 - Bulleted
 - List
